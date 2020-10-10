@@ -2780,3 +2780,5 @@
 - [@iamobregon](https://github.com/iamobregon)
 
 - [@Gyalzen2](https://github.com/Gyalzen2)
+
+- [@noamkanonich](https://github.com/noamkanonich)
